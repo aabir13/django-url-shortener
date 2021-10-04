@@ -4,7 +4,7 @@
 A **URL shortener** is a simple tool that takes a long URL and turns it into a *simpler URL* that is easy to handle. Since the dawn of the internet, links have been the way to get from one place to another online and precisely there still has no other way easier than that. But with the advent of a chunk of websites and links, each link gets lengthier and lengthier to maintain the uniqueness, hence a url shortener is one which tends to make our life easier. It’s much simpler to share a short and memorable URL than a lengthy one, especially when those lengthy URLs contain random numbers in them.
 
 ---
-## Tech
+## Technologies Used
 The Url Shortener is built on the following technologies
 - [Django] - High-level Python web framework that encourages rapid development and clean, pragmatic design
 - [Html] - To create pages and make them functional
