@@ -39,10 +39,13 @@ Now this sets up our project into our desired location and we can now open the s
 ---
 ## Home Page
 <img src="Images/Url1.png" width=100% height=100%/>
+
 ## Functioning URL Shortener
 <img src="Images/Url2.png" width=100% height=100%/>
+
 ## Admin Login
 <img src="Images/Url3.png" width=100% height=100%/>
+
 ## Database
 <img src="Images/Url4.png" width=100% height=100%/>
 
