@@ -37,9 +37,8 @@ django-admin startapp shortner
 Now this sets up our project into our desired location and we can now open the same in our code editors and work on the same
 
 ---
-<div style="text-align:center">
-<img src="Images/Url1.png" width=75% height=75%/>
-</p>
+
+<img src="Images/Url1.png" width=100% height=100%/>
 
 
    [Django]: <https://www.djangoproject.com/>
