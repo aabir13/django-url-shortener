@@ -49,7 +49,7 @@ Now this sets up our project into our desired location and we can now open the s
 ## Database
 <img src="Images/Url4.png" width=100% height=100%/>
 
-
+---
    [Django]: <https://www.djangoproject.com/>
    [Html]: <https://html.com/>
    [CSS]: <https://css-tricks.com/>
