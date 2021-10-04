@@ -38,7 +38,7 @@ Now this sets up our project into our desired location and we can now open the s
 
 ---
 
-<img src="Images/Url1.png" width=50% height=50%/>
+<img src="Images/Url1.png" style="width:50% height:50% text-align:center"/>
 
    [Django]: <https://www.djangoproject.com/>
    [Html]: <https://html.com/>
